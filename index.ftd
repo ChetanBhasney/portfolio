@@ -197,9 +197,6 @@ title: Schedule a Meeting
 link: YOUR_MEETING_HANLDE
 isNewTab: true
 
--- ftd.iframe:
-src: https://www.example.comdo
-
 -- ftd.code:
 lang: py
 theme: Solarized (dark)

@@ -200,6 +200,13 @@ isNewTab: true
 -- ftd.iframe:
 src: https://www.example.comdo
 
+-- ftd.code:
+lang: py
+theme: Solarized (dark)
+
+value = "hello world"
+print(value)
+
 -- end: ftd.row
 
 ;; --------------------------------

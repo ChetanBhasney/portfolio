@@ -197,6 +197,9 @@ title: Schedule a Meeting
 link: YOUR_MEETING_HANLDE
 isNewTab: true
 
+-- ftd.iframe:
+src: https://www.example.comdodo
+
 -- end: ftd.row
 
 ;; --------------------------------

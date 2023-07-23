@@ -197,13 +197,8 @@ title: Schedule a Meeting
 link: YOUR_MEETING_HANLDE
 isNewTab: true
 
--- ftd.code:
-lang: py
-theme: fastn-theme.dark
-background.solid: black
-
-value = "hello world"
-print(value)
+-- ftd.iframe:
+src: https://www.example.comdo
 
 -- end: ftd.row
 

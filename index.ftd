@@ -8,56 +8,56 @@
 
 
 ;; -------------------------------------------------------------------------
-;; ***** PORTFOLIO Layout starts *****
+;; ***** portfolio Layout starts *****
 ;; -------------------------------------------------------------------------
 
 -- layout.base-layout:
 
 ;; ----------------------------------------------------------------
-;; ***** PORTFOLIO Header starts *****
+;; ***** portfolio Header starts *****
 ;; ----------------------------------------------------------------
 
 -- navbar.header:
 logo: $assets.files.images.logo.svg
-logoURL: /YOUR_REPOSITORY_NAME
+logoURL: /portfolio
 header-item1: Home
 header-item2: About
 header-item3: Blogs
 header-item4: Projects
-header-item1-link: /YOUR_REPOSITORY_NAME
-header-item2-link: /YOUR_REPOSITORY_NAME/about
-header-item3-link: /YOUR_REPOSITORY_NAME/blogs
-header-item4-link: /YOUR_REPOSITORY_NAME/projects
+header-item1-link: /portfolio
+header-item2-link: /portfolio/about
+header-item3-link: /portfolio/blogs
+header-item4-link: /portfolio/projects
 cta-item2: Resume
-cta-item2-link: /YOUR_REPOSITORY_NAME/resume
+cta-item2-link: /portfolio/resume
 
 ;; ----------------------------------------------------------------
-;; ***** PORTFOLIO Header ends *****
+;; ***** portfolio Header ends *****
 ;; ----------------------------------------------------------------
 
 
 ;; -----------------------------------------------------
-;; ***** PORTFOLIO Toast starts *****
+;; ***** portfolio Toast starts *****
 ;; -----------------------------------------------------
 
 -- toast.stack:
 title: Hello, I'm aspiring fastn developer based in India
-link: https://github.com/YOUR_GITHUB_USERNAME
+link: https://github.com/ChetanBhasney
 
 ;; -----------------------------------------------------
-;; ***** PORTFOLIO Toast ends *****
+;; ***** portfolio Toast ends *****
 ;; -----------------------------------------------------
 
 
 ;; ------------------------------------------
-;; ***** PORTFOLIO Hero UI starts *****
+;; ***** portfolio Hero UI starts *****
 ;; ------------------------------------------
 
 -- ftd.container:
 padding-bottom.px: 20
 
 ;; ------------------------------------------
-;; ***** PORTFOLIO Hero UI Mobile view starts *****
+;; ***** portfolio Hero UI Mobile view starts *****
 ;; ------------------------------------------
 
 -- ftd.mobile:
@@ -98,7 +98,7 @@ spacing.fixed.px: 10
 
 -- button.secondary:
 title: Hire me
-link: mailto:YOUR_EMAIL_ADDRESS
+link: mailto:cm.a.67.chetan.bhasney@gmail.com
 
 -- button.primary:
 title: Schedule a Meeting
@@ -109,36 +109,36 @@ isNewTab: true
 
 
 ;; --------------------------------
-;; ***** PORTFOLIO Socials starts *****
+;; ***** portfolio Socials starts *****
 ;; --------------------------------
 
 -- ftd.row:
 spacing.fixed.px: 10
 
 -- social.social-button-wrapper:
-link: https://linkedin.com/in/YOUR_LINKEDIN_USERNAME
+link: https://www.linkedin.com/in/chetan-bhasney-143a31211/
 image: $assets.files.images.linkedin.png
 
 -- social.social-button-wrapper:
-link: https://twitter.com/YOUR_TWITTER_USERNAME
+link: https://twitter.com/CBhasney71806
 image: $assets.files.images.twitter.png
 
 -- social.social-button-wrapper:
-link: https://github.com/YOUR_GITHUB_USERNAME
+link: https://github.com/ChetanBhasney
 image: $assets.files.images.github.png
 
 -- social.social-button-wrapper:
-link: https://instagram.com/YOUR_INSTAGRAM_USERNAME
+link: https://www.instagram.com/chetanbhasney231/
 image: $assets.files.images.instagram.png
 
 -- social.social-button-wrapper:
-link: mailto:YOUR_EMAIL_ADDRESS
+link: mailto:cm.a.67.chetan.bhasney@gmail.com
 image: $assets.files.images.mail.png
 
 -- end: ftd.row
 
 ;; --------------------------------
-;; ***** PORTFOLIO Socials ends *****
+;; ***** portfolio Socials ends *****
 ;; --------------------------------
 
 -- end: ftd.column
@@ -148,7 +148,7 @@ image: $assets.files.images.mail.png
 -- end: ftd.mobile
 
 ;; ------------------------------------------
-;; ***** PORTFOLIO Hero UI Mobile view ends *****
+;; ***** portfolio Hero UI Mobile view ends *****
 ;; ------------------------------------------
 
 ;; ----------------------------------------------------------------
@@ -156,7 +156,7 @@ image: $assets.files.images.mail.png
 
 
 ;; ------------------------------------------
-;; ***** PORTFOLIO Hero UI Desktop view starts *****
+;; ***** portfolio Hero UI Desktop view starts *****
 ;; ------------------------------------------
 
 -- ftd.desktop:
@@ -200,36 +200,36 @@ isNewTab: true
 -- end: ftd.row
 
 ;; --------------------------------
-;; ***** PORTFOLIO Socials starts *****
+;; ***** portfolio Socials starts *****
 ;; --------------------------------
 
 -- ftd.row:
 spacing.fixed.px: 10
 
 -- social.social-button-wrapper:
-link: https://linkedin.com/in/YOUR_LINKEDIN_USERNAME
+link: https://www.linkedin.com/in/chetan-bhasney-143a31211/
 image: $assets.files.images.linkedin.png
 
 -- social.social-button-wrapper:
-link: https://twitter.com/YOUR_TWITTER_USERNAME
+link: https://twitter.com/CBhasney71806
 image: $assets.files.images.twitter.png
 
 -- social.social-button-wrapper:
-link: https://github.com/YOUR_GITHUB_USERNAME
+link: https://github.com/ChetanBhasney
 image: $assets.files.images.github.png
 
 -- social.social-button-wrapper:
-link: https://instagram.com/YOUR_INSTAGRAM_USERNAME
+link: https://www.instagram.com/chetanbhasney231/
 image: $assets.files.images.instagram.png
 
 -- social.social-button-wrapper:
-link: mailto:YOUR_EMAIL_ADDRESS
+link: mailto:cm.a.67.chetan.bhasney@gmail.com
 image: $assets.files.images.mail.png
 
 -- end: ftd.row
 
 ;; --------------------------------
-;; ***** PORTFOLIO Socials ends *****
+;; ***** portfolio Socials ends *****
 ;; --------------------------------
 
 -- end: ftd.column
@@ -243,17 +243,17 @@ width.fixed.px: 400
 -- end: ftd.desktop
 
 ;; ------------------------------------------
-;; ***** PORTFOLIO Hero UI Desktop view ends *****
+;; ***** portfolio Hero UI Desktop view ends *****
 ;; ------------------------------------------
 
 -- end: ftd.container
 
 ;; ------------------------------------------
-;; ***** PORTFOLIO Hero UI ends *****
+;; ***** portfolio Hero UI ends *****
 ;; ------------------------------------------
 
 -- end: layout.base-layout
 
 ;; -------------------------------------------------------------------------
-;; ***** PORTFOLIO Layout ends *****
+;; ***** portfolio Layout ends *****
 ;; -------------------------------------------------------------------------
